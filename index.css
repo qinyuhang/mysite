@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+#header
+	{
+		height:108px;
+		background-image:url(img/IMG_4860.jpg);
+		width: auto;
+		min-width: 480px; 
+		-webkit-box-sizing: content-box; 
+		-moz-box-sizing: content-box; 
+		margin: header; 
+		box-sizing: content-box; 
+		border-width: thin;
+	}
+#nav
+	{
+		list-style-type:none;
+		margin-left: 135px;
+		margin-top: -52px;
+		text-decoration:none;
+		text-transform:uppercase;
+	}	
+#nav li
+	{
+		float:left;
+		font-family:"Myriad Pro","Gill Sans", "Gill Sans MT" , "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	}
+#nav a:link,a:visited
+	{
+		display:block;
+		width:120px;
+		font-weight:bold;
+		color:#FFFFFF;
+		background-color:#bebebe;
+		text-align:center;
+		padding:5px 4px 4px 4px;
+		text-decoration:none;
+		text-transform:uppercase;
+	}
+#nav a:hover,a:active
+	{
+		background-color:#207CA8;
+	}
+#list
+	{
+		width:170px;
+		height:500px
+	}
+#content
+	{
+		float:right;
+		margin-left:170px;
+		margin-top:-520px;
+		min-height:500px;
+	}
+#footer
+	{
+		background-color:#207CA8;
+		margin:auto;
+		height:30px;
+	}
+.netmap
+	{
+		list-style:none;
+	}
+.article_list
+	{
+		list-style:none; 
+	}
