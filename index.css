@@ -40,18 +40,35 @@
 #nav a:hover,a:active
 	{
 		background-color:#207CA8;
+		color:#104158;
 	}
+#Container
+	{
+		float:left;
+	}	
 #list
 	{
-		width:170px;
-		height:500px
+		width:20%;
+		height:500px;
+		text-align:center;
+		float:left;
+	}
+.article_list_title
+	{
+		color:#FFFFFF;
+	}	
+.article_list li
+	{
+		text-align:left;
+		list-style-type:none;
 	}
 #content
 	{
 		float:right;
-		margin-left:170px;
-		margin-top:-520px;
 		min-height:500px;
+		width:80%;
+		font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+		color:#000000;
 	}
 #footer
 	{
@@ -62,8 +79,32 @@
 .netmap
 	{
 		list-style:none;
+		text-decoration:none;
+	}
+.netmap
+	{
+	}
+.netmap li
+	{
+		font-family:"Myriad Pro","Gill Sans", "Gill Sans MT" , "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	}
+.netmap a:link,a:visited
+	{
+		width:120px;
+		font-weight:bold;
+		color:#FFFFFF;
+		text-align:center;
+		padding:5px 4px 4px 4px;
+		text-decoration:none;
+		text-transform:uppercase;
+	}
+.netmap a:hover,a:active
+	{
+		color:#104158;
 	}
 .article_list
 	{
+		text-align:left;
+		text-decoration:none;
 		list-style:none; 
 	}
