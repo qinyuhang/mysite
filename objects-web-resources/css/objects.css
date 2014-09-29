@@ -1,0 +1,65 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.article {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	margin-top:6px;
+}
+p.ParaOverride-2 {
+	margin-top:12px;
+}
+span.CharOverride-1 {
+	color:#a9589d;
+	font-family:Bitter, serif;
+	font-size:32px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	font-family:"Droid Sans", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#414042;
+	font-family:Bitter, serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#fbae2c;
+	font-family:Bitter, serif;
+	font-size:18px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	font-family:"Droid Sans", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+img._idGenPageitem-1 {
+	height:100%;
+	width:100%;
+}
+div._idGenPageitem-2 {
+	display:inline-block;
+	height:150px;
+	width:230px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
