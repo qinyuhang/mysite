@@ -44,14 +44,26 @@
 	}
 #Container
 	{
-		
+		width:1024px;
+		alignment-adjust:central;
 	}	
 .pic1
 	{
 		width:1000px;
 		height:200px;
+		border:#FFFFFF;
+		border-width:medium;
+		margin:auto;
 	}
-
+.pic2
+	{
+		width:1000px;
+		height:200px;
+		border:#FFFFFF;
+		border-width:medium;
+		margin:auto;
+	}
+	
 #footer
 	{
 		background-color:#207CA8;

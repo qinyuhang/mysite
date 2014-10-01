@@ -12,12 +12,13 @@
 		box-sizing: content-box; 
 		border-width: thin;
 	}
-	
+#pagenameandnav
+	{
+		float:left;
+	}	
 #nav
 	{
 		list-style-type:none;
-		margin-left: 135px;
-		margin-top: -52px;
 		text-decoration:none;
 		text-transform:uppercase;
 	}	
@@ -45,8 +46,21 @@
 	}
 #Container
 	{
-		float:left;
+		
 	}	
+	
+.pic1
+	{
+		width:1000px;
+		height:200px;
+	}
+.article1
+	{
+		width:1000px;
+		height:200px;
+	}
+
+	
 #list
 	{
 		width:20%;
