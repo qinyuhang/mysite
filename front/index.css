@@ -19,6 +19,8 @@
 #nav
 	{
 		list-style-type:none;
+		margin-left: 135px;
+		margin-top: -52px;
 		text-decoration:none;
 		text-transform:uppercase;
 	}	
@@ -53,11 +55,18 @@
 	{
 		width:1000px;
 		height:200px;
+		margin:auto;
+		border:white solid thin;
+		margin-bottom:10px;
 	}
+	
 .article1
 	{
 		width:1000px;
 		height:200px;
+		margin:auto;
+		border:white solid thin;
+		margin-bottom:10px;
 	}
 
 	
