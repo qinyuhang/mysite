@@ -99,6 +99,11 @@
 		background-color:#207CA8;
 		margin:auto;
 	}
+#netmaps
+	{
+		float:none;
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+	}	
 .netmap
 	{
 		list-style:none;

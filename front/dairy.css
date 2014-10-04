@@ -28,8 +28,8 @@
 #nav a:link,a:visited
 	{
 		display:block;
-		width:120px;
-		font-weight:bold;
+		width:100px;
+		font-weight:200;
 		color:#FFFFFF;
 		background-color:#bebebe;
 		text-align:center;
